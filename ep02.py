@@ -1,3 +1,4 @@
+#string, int, float
 s = str(input('Digite uma string s: '))
 i = int(input('Digite um inteiro i: '))
 x = float(input('Digite um float x: '))
