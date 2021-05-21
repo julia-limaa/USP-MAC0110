@@ -21,7 +21,6 @@ if soma % 11 == 10:
     dv1 = 0
 else: 
     dv1 = soma % 11
-
 i = 1
 x = n
 while x > 9:
