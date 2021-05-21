@@ -1,3 +1,4 @@
+#coordenadas dentro/fora (carinha)
 x = float(input('Digite um número x entre 0 e 8: '))
 y = float(input('Digite um número y entre 0 e 8: '))
 local = 'azul'
