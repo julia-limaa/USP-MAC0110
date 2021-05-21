@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-#------------------------------------------------------------------
-# LEIA E PREENCHA O CABEÇALHO 
-# NÃO ALTERE OS NOMES DAS FUNÇÕES, MÉTODOS E ATRIBUTOS
-# NÃO APAGUE OS DOCSTRINGS
-#------------------------------------------------------------------
 s = str(input('Digite uma string s: '))
 i = int(input('Digite um inteiro i: '))
 x = float(input('Digite um float x: '))
