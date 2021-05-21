@@ -1,3 +1,4 @@
+#somas, string, int e float
 s = str(input('Digite uma string s: '))
 i = int(input('Digite um inteiro i: '))
 r = float(input('Digite um real r: '))
