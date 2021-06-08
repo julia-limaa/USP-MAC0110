@@ -1,3 +1,3 @@
 # USP
-Requested programs in the subject "Introduction to Computing MAC0110" by University of Sao Paulo
+Requested programs in the subject "Introduction to Computing - MAC0110", by University of São Paulo
 
